@@ -87,7 +87,7 @@ Negative testing, status code validation, and data integrity testing for REST AP
 
 - **Email**: siyandamasala10@gmail.com
 - **LinkedIn**: [linkedin.com/in/siyanda-masala-947644201](https://www.linkedin.com/in/siyanda-masala-947644201)
-- **GitHub**: [github.com/yourusername/SQA-Portfolio]https://github.com/Masala10
+- **GitHub**: https://github.com/Masala10
 - **Jira Portfolio**: https://siyandamasala10.atlassian.net/jira/software/projects/SQ/boards/34/backlog?atlOrigin=eyJpIjoiYTEzOTI1NmUxMTc4NDhiY2FmNzljZDAwMzBhMTMzZDEiLCJwIjoiaiJ9
 ---
 *Thank you for visiting my portfolio!*
